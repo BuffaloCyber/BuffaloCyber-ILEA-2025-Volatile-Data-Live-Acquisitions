@@ -3,3 +3,7 @@
 KAPE
 https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape
 
+
+-----
+Copy of class batch script
+-----
