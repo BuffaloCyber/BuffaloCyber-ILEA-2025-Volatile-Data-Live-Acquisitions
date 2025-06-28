@@ -43,7 +43,7 @@ IR_Script2.bat: "save all commands to one file" (run as admin)
 > 
 >echo. >> IR.txt
 > 
-echo -------------------------------------------- >> IR.txt
+>echo -------------------------------------------- >> IR.txt
 >
 >echo. >> IR.txt
 >
