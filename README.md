@@ -7,16 +7,16 @@ https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extra
 -----
 Copy of class batch script "save each command to individual files" (run as admin)
 -----
-cd /d "%~dp0"
-echo %date%-%time% > datetime.txt
-getmac > getmac.txt
-ipconfig > ipconfig.txt
-net user > netuser.txt
-whoami > whoami.txt
-ver > ver.txt
-systeminfo > systeminfo.txt
-netstat -anob > netstat.txt
-tasklist > tasklist.txt
+> cd /d "%~dp0"
+> echo %date%-%time% > datetime.txt
+> getmac > getmac.txt
+> ipconfig > ipconfig.txt
+> net user > netuser.txt
+> whoami > whoami.txt
+> ver > ver.txt
+> systeminfo > systeminfo.txt
+> netstat -anob > netstat.txt
+> tasklist > tasklist.txt
 
 -----
 Copy of class batch script "save all commands to one file" (run as admin)
