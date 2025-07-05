@@ -3,6 +3,8 @@
 KAPE
 https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape
 
+Bitlocker key display (as admin)
+manage-bde.exe -protectors C: -get
 
 -----
 IR_Script_1.bat: "save each command to individual files" (run as admin)
